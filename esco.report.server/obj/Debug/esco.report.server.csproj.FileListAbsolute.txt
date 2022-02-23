@@ -106,3 +106,4 @@ C:\Workspaces\matbarofex\esco.report.server\esco.report.server\obj\Debug\esco.re
 C:\Workspaces\matbarofex\esco.report.server\esco.report.server\obj\Debug\esco.report.server.csproj.CopyComplete
 C:\Workspaces\matbarofex\esco.report.server\esco.report.server\obj\Debug\Esco.Report.Server.dll
 C:\Workspaces\matbarofex\esco.report.server\esco.report.server\obj\Debug\Esco.Report.Server.pdb
+C:\Workspaces\matbarofex\esco.report.server\esco.report.server\obj\Debug\esco.report.server.csproj.AssemblyReference.cache
