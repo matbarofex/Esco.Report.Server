@@ -9,7 +9,7 @@ Conector que permite la interconexión directa e integración de los sistemas de
 [![N|Solid](esco.report.server.documentation/screen.png)](https://www.sistemasesco.com.ar)
 
 ## OBJETIVOS
-This library ESCO.Report.Connector allows as fundamental objectives:
+La libreria ESCO.Report.Connector permite como objetivos fundamentales:
 - Exportación de formularios y reportes de tipo PowerBI y Paginados publicados en Report Server a los formatos: PPTX, HTML, IMAGE, EXCEL, WORD, CSV, PDF y XML
 - Generación a binario de reportes y formularios (de forma unificado o en lote)
 - Visualización del reporte o formulario desde un browser embebido para su posterior exportación, envío o impresión.
