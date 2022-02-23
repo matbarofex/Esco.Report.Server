@@ -10,19 +10,19 @@ Connector that allows direct interconnection and integration of ESCO systems (Es
 
 ## OBJECTIVES
 This library ESCO.Report.Connector allows as fundamental objectives:
-• Export of PowerBI and Paginated forms and reports published in Report Server to formats: PPTX, HTML, IMAGE, EXCEL, WORD, CSV, PDF and XML
-• Binary generation of reports and forms (unified or in batch)
-• Visualization of the report or form from an embedded browser for later export, sending or printing.
+- Export of PowerBI and Paginated forms and reports published in Report Server to formats: PPTX, HTML, IMAGE, EXCEL, WORD, CSV, PDF and XML
+- Binary generation of reports and forms (unified or in batch)
+- Visualization of the report or form from an embedded browser for later export, sending or printing.
 
 ## ESCO.Report.Connector features:
-• Independent Reporting Service
-• Cache and DB in memory
-• Report queuing
-• Security
-• Personalization
-• Temporary storage
-• Business logic
-• Export to binary
+- Independent Reporting Service
+- Cache and DB in memory
+- Report queuing
+- Security
+- Personalization
+- Temporary storage
+- Business logic
+- Export to binary
 
 **` EJEMPLO DE USO`**
 ```r
