@@ -1,12 +1,12 @@
 # Esco Report Connector
 
-[![N|Solid](esco.esco.report.server.documentation/esco.png)](https://www.sistemasesco.com.ar)
+[![N|Solid](esco.report.server.documentation/esco.png)](https://www.sistemasesco.com.ar)
 
 Esco Report Connector by ([**Power BI**](https://powerbi.microsoft.com/es-es/))
 
 Connector that allows direct interconnection and integration of ESCO systems (EscoAPI, Fondos and Bolsa) with the Power BI Report Server, so that existing Power BI forms and reports can be generated (in various formats) or displayed previously from systems.
 
-[![N|Solid](esco.esco.report.server.documentation/screen.png)](https://www.sistemasesco.com.ar)
+[![N|Solid](esco.report.server.documentation/screen.png)](https://www.sistemasesco.com.ar)
 
 ## OBJECTIVES
 This library ESCO.Report.Connector allows as fundamental objectives:
@@ -24,9 +24,8 @@ This library ESCO.Report.Connector allows as fundamental objectives:
 • Business logic
 • Export to binary
 
-
-## EJEMPLO DE USO
-```sh
+**` EJEMPLO DE USO`**
+```r
         ReportServices report = new ReportServices("**user**", "**password**", "http://servidor/reports/");
         ExportedFile file = await report.ExportReport("**Nombre del reporte", "PDF", null, "4334");
         if (file.FileStream != Stream.Null)
