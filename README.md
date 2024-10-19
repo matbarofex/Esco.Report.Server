@@ -1,12 +1,12 @@
 # Esco Report Connector
 
-[![N|Solid](esco.report.server.documentation/esco.png)](https://www.sistemasesco.com.ar)
+[![N|Solid](esco.report.server.documentation/esco.png)](https://www.primary.com.ar)
 
 Esco Report Connector ([**Power BI**](https://powerbi.microsoft.com/es-es/))
 
 Conector que permite la interconexión directa e integración de los sistemas de ESCO (EscoAPI, Fondos y Bolsa) con el Power BI Report Server, de forma tal que puedan generarse (en diversos formatos) o visualizarse, los formularios y reportes de tipo Power BI existentes previamente desde los sistemas.
 
-[![N|Solid](esco.report.server.documentation/screen.png)](https://www.sistemasesco.com.ar)
+[![N|Solid](esco.report.server.documentation/screen.png)](https://www.primary.com.ar)
 
 ## OBJETIVOS
 La libreria ESCO.Report.Connector permite como objetivos fundamentales:
